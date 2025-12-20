@@ -45,11 +45,13 @@ a.   KVL:
 
  <img width="1280" height="663" alt="image" src="https://github.com/user-attachments/assets/e1f68c97-ac3e-4f5b-95e0-1008a2a02528" />
 
+<img width="710" height="463" alt="KVL" src="https://github.com/user-attachments/assets/6b22d52d-5696-44a4-96d8-2b3f9db7b446" />
 
 b.  KCL:
  
 <img width="1280" height="663" alt="image" src="https://github.com/user-attachments/assets/d52618d8-1451-4e3b-a63a-89c22198a9b0" />
 
+<img width="779" height="460" alt="KCL" src="https://github.com/user-attachments/assets/5f9e1a2c-3a71-4a8c-9511-5c980ca46d90" />
 
 Calculation:
 
